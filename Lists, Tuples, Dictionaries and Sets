@@ -1,9 +1,0 @@
-#Lists, Tuples, Dictionaries, and Sets
-
-c = [-45, 6, 0, 72, 1543]
-
-a = 2
-b = 2
-
-print(c[a + b])  #this takes the sum of the index position. result is c[4] = 1543
-
